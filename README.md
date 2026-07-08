@@ -137,7 +137,3 @@ See `models/confusion_matrix.png` and `models/classification_report.txt` for ful
 ## Tech Stack
 
 Python · PyTorch · torchvision · Streamlit · scikit-learn (metrics) · kagglehub
-
-## License
-
-MIT

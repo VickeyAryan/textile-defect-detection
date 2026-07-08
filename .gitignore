@@ -5,7 +5,6 @@ __pycache__/
 data/
 !data/.gitkeep
 
-models/*.pt
 !models/.gitkeep
 
 .ipynb_checkpoints/
