@@ -1,0 +1,10 @@
+torch>=2.2
+torchvision>=0.17
+kagglehub>=0.3
+streamlit>=1.32
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+Pillow>=10.0
+numpy>=1.26
+tqdm>=4.66
